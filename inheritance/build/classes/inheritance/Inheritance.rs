@@ -1,0 +1,3 @@
+inheritance.Inheritance
+inheritance.Navigate
+inheritance.Communicate
